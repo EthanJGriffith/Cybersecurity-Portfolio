@@ -6,3 +6,5 @@ A description of who I am and what my certifications are that are beneficial to 
    UTK. Targeting SOC Analyst roles. Currently holding Comp TIA A+ working on Net + and Sec+.
 
 2) Certifications 
+CompTIA A+
+CompTIA Net+
